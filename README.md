@@ -11,15 +11,29 @@ EchoMind AI predicts mental burnout before it happens using AI and provides pers
 - Personalized Recovery Plan
 - Weekly Reports
 
-## Tech Stack
-- React
-- Node.js
-- Express
-- MongoDB
-
 ## Installation
 npm install
 npm start
+
+## Tech Stack
+- Frontend: React + Vite + Tailwind CSS
+- Backend: Node.js + Express
+- Database: MongoDB
+- AI: Claude API
+
+## Installation
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run dev`
+
+## Future Scope
+- Wearable device integration
+- Voice emotion analysis
+- Smartwatch support
+- Emergency contact alerts
+
+## Contributors
+- Jeya Bharathi
 
 
 
