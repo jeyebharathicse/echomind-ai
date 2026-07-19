@@ -30,7 +30,8 @@ EchoMind AI predicts mental burnout before it happens using AI and provides pers
 - Emergency contact alerts
 
 ## Contributors
-- Jeya Bharathi
+- Jeya Bharathi.
+  
 
 
 
