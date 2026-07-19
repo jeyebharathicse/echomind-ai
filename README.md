@@ -13,3 +13,32 @@ Tech stack
 Frontend: React + Vite + Tailwind CSS, Recharts for charts, Lucide for icons
 Backend: Node.js + Express (proxies requests to the Anthropic API so the API key stays server-side)
 AI: Claude (Anthropic API)
+# 🧠 EchoMind AI
+
+## Overview
+EchoMind AI predicts mental burnout before it happens using AI and provides personalized recovery plans.
+
+## Features
+- Burnout Prediction
+- Mood Tracking
+- Sleep Analysis
+- Personalized Recovery Plan
+- Weekly Reports
+
+## Tech Stack
+- React
+- Node.js
+- Express
+- MongoDB
+
+## Installation
+npm install
+npm start
+
+
+
+
+
+
+
+
