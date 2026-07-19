@@ -11,9 +11,6 @@ EchoMind AI predicts mental burnout before it happens using AI and provides pers
 - Personalized Recovery Plan
 - Weekly Reports
 
-## Installation
-npm install
-npm start
 
 ## Tech Stack
 - Frontend: React + Vite + Tailwind CSS
